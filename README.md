@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandhiniKesireddy
 - 👀 I’m interested in Learning new things.  
-- 🌱 I’m currently learning angular JS
+- 🌱 I’m currently learning angular JS, ReactJS, VueJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
